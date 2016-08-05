@@ -1,0 +1,14 @@
+layout_spectrum: 0.8616330816876143
+typography_spectrum: 0.08174517983570695
+color:
+  brandStrength: 0.03328936919569969
+  lightness: 0.05042438767850399
+  saturation: 0.9923125959467143
+  rhythmicContrast: 0.35542073589749634
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Media Network
