@@ -6,9 +6,10 @@ color:
   saturation: 0.9923125959467143
   rhythmicContrast: 0.35542073589749634
   brandColors:
-    - '#FFFFFF'
-    - '#10170F'
-    - '#B3A4AB'
-    - '#524847'
-    - '#7D7479'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Media Network
+title: The International Broadcast Archive
