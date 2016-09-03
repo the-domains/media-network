@@ -11,6 +11,10 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.8616330816876143
+author:
+  name: Jonathan Marks
+  email: jonathan@jonathanmarks.com
+  url: 'http://jonathanmarks.libsyn.com/'
 name: Media Network
 title: The International Broadcast Archive
 description: Raiders of the lost recordings
